@@ -71,3 +71,11 @@ processes. The results obtained (i) contribute to the revision of emission facto
 may improve N<sub>2</sub>O emission models that take variations in climate, soil and nutrient scenarios into
 consideration, and (iii) provide foundations for abating reactive nitrogen losses from farming
 systems using amendments.
+
+## Acknowledgments
+
+I couldn't have done the statistical analyses without the following resources
+* van Emden, Helmut (2008). Statistics for terrified biologists. Blackwell Publishing, Malden, MA, USA. 
+* DataCamp (https://www.datacamp.com) 
+* Phillips, Nathaniel D. YaRrr! The Pirate’s Guide to R (https://ndphillips.github.io/piratesguide.html)
+* Winter, Bodo. A very basic tutorial for performing linear mixed effects analyses (Tutorial 2) (http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
