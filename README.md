@@ -8,7 +8,7 @@ https://espace.library.uq.edu.au/view/UQ:687942
 
 ## Abstract 
 
-The concentration of the potent greenhouse gas nitrous oxide (N~2~O) in the Earth’s atmosphere is
+The concentration of the potent greenhouse gas nitrous oxide (N~2O) in the Earth’s atmosphere is
 increasing. The main reason is agricultural activity, especially the application of nitrogenous
 fertilisers and animal manures to soils. In tropical and subtropical climates, N~2~O emissions from
 fertilised soils can be particularly high, however, there is considerable uncertainty in N~2~O estimates
